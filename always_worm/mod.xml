@@ -1,0 +1,12 @@
+<Mod
+	name="Always Worm"
+	description="将混乱变形效果限制为只在基础蠕虫系列中随机变形 (worm, worm_big, worm_tiny, worm_end, worm_skull)"
+	author="Player"
+	version="1.0"
+	request_no_api_restrictions="0"
+	is_game_mode="0"
+	dependencies=""
+	settings_fold_name="0"
+	allow_disabling="1"
+>
+</Mod>
